@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("bkg2_img.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+img{
+    width: 500px;
+    height: 300px;
+    
+}
+p{
+    font-weight: bold;
+}
